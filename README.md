@@ -1,3 +1,9 @@
+# Project de CC
+
+## Todavía no sé de que se va a tratar el projecto. 
+
+La pagina web es en [https://valtl.github.io/cc-Master/].
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/valtl/cc-Master/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
