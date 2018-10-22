@@ -1,5 +1,5 @@
 # Project de CC
 
-## Todavía no sé de que se va a tratar el projecto. 
+## codigo del projecto de la asignatura cc
 
-La pagina web es en https://valtl.github.io/cc-Master/
+La pagina web con informaciones es [este]( https://valtl.github.io/cc-Master/)
