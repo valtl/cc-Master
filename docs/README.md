@@ -12,6 +12,10 @@ La aplicacion debe ordenar la musica al respecto de la tonalidad y de la velocid
 
 Utilizaré una arquitectura de microservicios.
 
+## Licencia
+
+Se va a aplicar la "GNU General Public License v3.0"
+
 ## Referencias
 
 - [Wikipedia Tono](https://es.wikipedia.org/wiki/Tono_(ac%C3%BAstica))
