@@ -20,5 +20,3 @@ Se va a aplicar la "GNU General Public License v3.0"
 
 - [Wikipedia Tono](https://es.wikipedia.org/wiki/Tono_(ac%C3%BAstica))
 - [Wikipedia Tempo](https://en.wikipedia.org/wiki/Tempo#Beats_per_minte)
-
-index.md
