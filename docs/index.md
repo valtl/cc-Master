@@ -1,12 +1,12 @@
 # Project de CC
 
-## Definición del proyecto
+## Descripción del reto
 
-Crear una aplicacion que ordene musica.
+En mi coro todavía se vende las entradas de la obra de una forma de lista a rayas que es muy propenso a errores. Hazer la cuenta no es facil no si alguien quiere devolver una entrada. En el día de la obra se debe romper las entradas para verificar la validez por una unica vez.
 
 ## Descripción del proyecto
 
-La aplicacion debe ordenar la musica al respecto de la tonalidad y de la velocidad. El resultado sea una lista con el orden mas gustoso en que se pueda disfrutar las canciónes. Se entrega a la aplicación una lista de canciones con sus tonalidadas y sus velocidadas. 
+Construir una aplicación web que permite hacer todo de forma digital. Por el "frontend" voy a utilizar html, css y js y por el "backend" en un server de Apache PHP y MySQL pero igualmente unos microservicios sean en otras ideomas. Por la autirazion del acceso se va a utilizar .htaccess.
 
 ## Arquitectura
 
@@ -18,5 +18,4 @@ Se va a aplicar la "GNU General Public License v3.0"
 
 ## Referencias
 
-- [Wikipedia Tono](https://es.wikipedia.org/wiki/Tono_(ac%C3%BAstica))
-- [Wikipedia Tempo](https://en.wikipedia.org/wiki/Tempo#Beats_per_minte)
+- [Coro en Alemania](http://www.unichor.de/?page_id=136)
