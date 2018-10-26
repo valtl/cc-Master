@@ -1,6 +1,6 @@
 # Project de CC
 
-## Descripción del problema
+*## Descripción del problema
 
 En mi coro todavía se vende las entradas de la obra de una forma de lista a rayas que es muy propenso a errores. Hazer la cuenta no es facil no si alguien quiere devolver una entrada. En el día de la obra se debe romper las entradas para verificar la validez por una unica vez.
 
@@ -22,7 +22,7 @@ Se va a aplicar la "GNU General Public License v3.0"
 
 ## Referencias
 
-- [Coro en Alemania](http://www.unichor.de/?page_id=136)
+- [Coro en Alemania](http://www.unichor.de/?page_id=136)*
 
 ## Pagina web
 
