@@ -1,6 +1,6 @@
 # Project de CC
 
-## Descripción del reto
+## Descripción del problema
 
 En mi coro todavía se vende las entradas de la obra de una forma de lista a rayas que es muy propenso a errores. Hazer la cuenta no es facil no si alguien quiere devolver una entrada. En el día de la obra se debe romper las entradas para verificar la validez por una unica vez.
 
@@ -10,7 +10,7 @@ Construir una aplicación web que permite hacer todo de forma digital. Por eso l
 Estas cosas son las más importante:
 - Interface del vendedor
 - Backend que maneja la base de datos
-- Interface de la gente q controlla en la entrada 
+- Interface de la gente q controlla en la entrada
 
 ## Arquitectura
 
